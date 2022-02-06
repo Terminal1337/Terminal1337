@@ -1,5 +1,5 @@
 Hi there 👋
-I'm Sudhan, An noob from somewhere in the earth. I like to code console applications.I have worked on many projects in my past, Some of my open source projects are pinned below make sure to check them out. 
+I'm Terminal, An noob from somewhere in the earth. I like to code console applications.I have worked on many projects in my past, Some of my open source projects are pinned below make sure to check them out. 
 
 Thanks for visiting my github profile. Have a great day ahead!~
 
