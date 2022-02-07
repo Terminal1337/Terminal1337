@@ -11,7 +11,7 @@ Thanks for visiting my github profile. Have a great day ahead!~
 ```self.readme = new GitHubAboutMe({
   username:'Terminal1337',
   name:undefined,
-  likes:['Pythom','JavaScript','C#','C++'],
+  likes:['Python3','JavaScript','C#','C++'],
   hobby:['Programming','Pentesting'],
   worksat:undefined,
   telegram:'@terminal1337'
