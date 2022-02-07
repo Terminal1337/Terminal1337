@@ -8,7 +8,8 @@ Thanks for visiting my github profile. Have a great day ahead!~
 
 
 
-```self.readme = new GitHubAboutMe({
+```
+self.readme = new GitHubAboutMe({
   username:'Terminal1337',
   name:undefined,
   likes:['Python3','JavaScript','C#','C++'],
