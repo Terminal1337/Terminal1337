@@ -17,6 +17,6 @@ self.readme = new GitHubAboutMe({
   worksat:undefined,
   telegram:'@terminal1337'
 })```
+!<script src="https://tryhackme.com/badge/304026"></script>
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Terminal.png" alt="TryHackMe">
