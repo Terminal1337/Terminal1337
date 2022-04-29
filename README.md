@@ -18,6 +18,6 @@ self.readme = new GitHubAboutMe({
   telegram:'@terminal1337'
 })```
 
-[![Watch the video](<script src="https://tryhackme.com/badge/304026"></script>)](<script src="https://tryhackme.com/badge/304026"></script>)
+{{< image src="https://tryhackme.com/badge/304026" alt="Hack The Box" style="max-width: 256px; display: inline" >}}
 
 
