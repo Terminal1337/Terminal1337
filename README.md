@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Rust<br>👨🏽‍💻 17yo High School Student<br>💻 Fields of Interest : CyberSecurity, Red Teaming , CTFs<br>😄 Pronouns: He/Him
+🌱 I’m currently learning Rust<br>👨🏽‍💻 18yo High School Student<br>💻 Fields of Interest : CyberSecurity, Red Teaming , CTFs<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
